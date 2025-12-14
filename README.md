@@ -12,4 +12,4 @@
 - Smooth scrolling
 
 ## Live Demo
-(Add GitHub Pages link here)
+https://itsnaman30.github.io/Personal_portfolio/
